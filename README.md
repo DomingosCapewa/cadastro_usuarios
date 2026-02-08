@@ -91,14 +91,6 @@ http://localhost/desafio_tecnico_cadastro_de_usuarios/
 - Verificação de permissões de arquivo
 - Limite de tamanho máximo
 
-## Funcionalidades 
-
-### Paginação
-
-- 10 registros por página
-- Navegação com botões "Anterior" e "Próxima"
-- Indicador de página atual
-
 ### Config.php (Funções Reutilizáveis)
 
 ```php
